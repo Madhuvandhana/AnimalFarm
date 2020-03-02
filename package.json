@@ -1,0 +1,15 @@
+{
+  "name": "vijaykumar_madhu_cs546_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Madhu Vandhana Vijaykumar 10456246",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.4"
+  }
+}
